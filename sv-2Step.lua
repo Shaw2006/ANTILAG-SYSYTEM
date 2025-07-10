@@ -1,9 +1,3 @@
-	--[[
-		Antilag & 2-Step Script
-			By Silence & Samuel_
-		But Server stuff...
-	]]
-
 RegisterServerEvent("eff_flames")
 
 AddEventHandler("eff_flames", function(entity)
