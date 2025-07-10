@@ -1,8 +1,3 @@
-	--[[
-		Antilag & 2-Step Script
-			By Silence & Samuel_
-		But Client stuff...
-	]]
 RegisterNetEvent("2step:Anti-lag")
 RegisterNetEvent("c_eff_flames")
 
